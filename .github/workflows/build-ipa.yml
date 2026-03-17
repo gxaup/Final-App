@@ -33,7 +33,7 @@ jobs:
         run: |
           # Use xcodebuild to build the app
           # We build for 'generic/platform=iOS' to create a distributable binary
-          xcodebuild -workspace ios/App/App.xcworkspace \
+          -project ios/App/App.xcodeproj
                      -scheme App \
                      -configuration Release \
                      -sdk iphoneos \
