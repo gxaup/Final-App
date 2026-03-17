@@ -1,0 +1,12 @@
+SESSION REPORT
+================================
+Bus Number: 
+Bus Driver: test
+Route: 
+Stop Boarded: 
+Time Boarded: 12:09 AM
+Time Off: 12:09 AM
+
+VIOLATIONS LOG (0)
+--------------------------------
+No violations recorded.

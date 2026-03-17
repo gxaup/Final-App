@@ -1,0 +1,12 @@
+SESSION REPORT
+================================
+Bus Number: 
+Bus Driver: 
+Route: 
+Stop Boarded: 
+Time Boarded: 5:47 PM
+Time Off: 5:47 PM
+
+VIOLATIONS LOG (1)
+--------------------------------
+[5:47 PM] || Took off while customers standing
